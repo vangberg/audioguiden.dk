@@ -1,0 +1,138 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 5:02:32 Dec 19, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:23:26 Jun 22, 2015.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+body
+{
+  background-color: #fff;
+}
+
+#top {
+  width: 740px;
+  margin-bottom: 45px;
+}
+
+#top ul{
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+  border-top: 1px dotted #ddd;
+  border-bottom: 1px dotted #ddd;
+  height: 23px;
+vertical-align: bottom;
+}
+
+#top li {
+  float:left;
+  padding-right: 10px;
+  width: 112px;
+  text-align: center;
+display: inline;
+vertical-align: bottom;
+}
+
+#top a {
+  color: #888;
+  text-decoration: none;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 0.8em;
+}
+
+#top a:hover {
+  color: #AA1F00;
+  text-decoration: underline;
+}
+
+#content {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  line-height: 16px;
+  vertical-align: top;
+}
+
+#container {
+  width: 740px;
+  text-align: left;
+}
+
+#footer {
+  text-align: center;
+  color: #666666;
+  font-size: 0.8em;
+  font-family: sans-serif;
+  padding-top: 20px;
+  clear: both;
+}
+
+#footer a {
+  color: #666;
+  text-decoration: none;
+}
+
+.lysblaa {
+  color: #007496;
+  font-size: 1.5em;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.morkblaa {
+  color: #006486;
+  font-family: verdana, sans-serif;
+  font-size:2.8em;
+  text-align: center;
+}
+
+.overskrift {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 24px;
+  color: #006486;
+  padding-bottom: 20px;
+  text-transform: capitalize;
+}
+
+.nyhed {
+  margin-bottom: 50px;
+  clear: both;
+  
+}
+
+.billed_raekke {
+  float: right;
+  text-align: center;
+    padding-bottom: 10px;
+  padding-top: 15px;
+}
+
+.billed_raekke_nyhed {
+  float: right;
+  text-align: center;
+    padding-bottom: 10px;
+  padding-top: 15px;
+}
+.billed_raekke_nyhed img {
+  border: 1px solid #808080;
+}
+.billed_raekke img {
+  border: 1px solid #808080;
+  margin-bottom: 50px;
+}
+
+.artikel_body {
+  width: 440px;
+  text-align: justify;
+}
+
+.lokaliteter {
+  float: right;
+}
